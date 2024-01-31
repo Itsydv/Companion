@@ -83,7 +83,7 @@ We may share Your personal information in the following situations:
     With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
     With Your consent: We may disclose Your personal information for any other purpose with Your consent.
 
-Retention of Your Personal Data
+## Retention of Your Personal Data
 
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
@@ -121,7 +121,7 @@ The Company may disclose Your Personal Data in the good faith belief that such a
     Protect the personal safety of Users of the Service or the public
     Protect against legal liability
 
-Security of Your Personal Data
+## Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 Children's Privacy
@@ -129,7 +129,8 @@ Children's Privacy
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
-Links to Other Websites
+
+## Links to Other Websites
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
